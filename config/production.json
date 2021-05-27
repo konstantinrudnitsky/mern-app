@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Konstantin developer atp17",
+    "mongoUri": "mongodb+srv://Konstantin:RKA12345@cluster0.8n0ns.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
